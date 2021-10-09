@@ -4,8 +4,8 @@ site_description: Master in Design for Emergent Futures
 site_author: Julia Steketee
 copyright: Copyleft 2021 "Julia Steketee" - GNU Free Documentation License
 repo_name: 'Julia : MDEF Website Repository'
-site_url: https://fablabbcn.github.io/mdef-template/
-repo_url: 'https://github.com/fablabbcn/mdef-template'
+site_url: 'https://julia-steketee.github.io/MDEF-Website-Repository/'
+repo_url: 'https://github.com/julia-steketee/MDEF-Website-Repository'
 
 extra:
   social:
