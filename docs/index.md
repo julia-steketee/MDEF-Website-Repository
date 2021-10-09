@@ -1,5 +1,5 @@
-## Welcome
+## 1234 index.md
 
 ![](../images/perezoso.jpg)
 
-howdy
+This text is coming from index.md. 
