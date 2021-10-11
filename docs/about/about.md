@@ -1,6 +1,6 @@
 # About
 
-![](../images/photo.jpg)
+![](../images/Classes)
 
 Hey it's me. 
 
