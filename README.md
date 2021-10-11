@@ -1,7 +1,5 @@
 # MDEF Website Template
 
-TEST
-
 This is a template for the student's personal repository during the _Master in Design for Emergent Futures (MDEF - Fab Lab Barcelona / IAAC)_. 
 
 
