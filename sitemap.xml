@@ -2,27 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://julia-steketee.github.io/MDEF-Website-Repository/</loc>
-         <lastmod>2021-10-09</lastmod>
+         <lastmod>2021-10-11</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://julia-steketee.github.io/MDEF-Website-Repository/about/about/</loc>
-         <lastmod>2021-10-09</lastmod>
+         <lastmod>2021-10-11</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://julia-steketee.github.io/MDEF-Website-Repository/project/project/</loc>
-         <lastmod>2021-10-09</lastmod>
+         <lastmod>2021-10-11</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://julia-steketee.github.io/MDEF-Website-Repository/seminars/01-Bootcamp/</loc>
-         <lastmod>2021-10-09</lastmod>
+         <lastmod>2021-10-11</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://julia-steketee.github.io/MDEF-Website-Repository/seminars/02-Atlas%20of%20Weak%20Signals/</loc>
-         <lastmod>2021-10-09</lastmod>
+         <lastmod>2021-10-11</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
