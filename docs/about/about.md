@@ -1,6 +1,6 @@
 # About
 
-![](../images/perezoso.jpg)
+![](../images/MDEF_Bootcamp_What you want to gain-02.png)
 
 Hey it's me. 
 
