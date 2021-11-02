@@ -6789,7 +6789,7 @@ body:not(.device-touch) .grid-container {
 	border-radius: 2px;
 }
 
-.grid-filter li a:hover { color: #1ABC9C; }
+.grid-filter li a:hover { color: #57A391; }
 
 .grid-filter li.activeFilter a {
 	color: #FFF;
@@ -6879,8 +6879,8 @@ body:not(.device-touch) .grid-container {
 .grid-filter.style-3 li a { border: 1px solid transparent; }
 
 .grid-filter.style-3 li.activeFilter a {
-	color: #1ABC9C !important;
-	border-color: #1ABC9C;
+	color: #57A391 !important;
+	border-color: #57A391;
 	background-color: transparent;
 	margin: 0;
 }
@@ -6912,7 +6912,7 @@ body:not(.device-touch) .grid-container {
 }
 
 .grid-filter.style-4 li.activeFilter a {
-	color: #444 !important;
+	color: #57A391 !important;
 	background-color: transparent;
 	margin: 0;
 }
@@ -6920,7 +6920,7 @@ body:not(.device-touch) .grid-container {
 .grid-filter.style-4 li.activeFilter a::after {
 	width: 100%;
 	left: 0%;
-	background-color: #1ABC9C;
+	background-color: #57A391;
 }
 
 
@@ -6942,7 +6942,7 @@ body:not(.device-touch) .grid-container {
 }
 
 .grid-shuffle:hover {
-	background-color: #1ABC9C;
+	background-color: #57A391;
 	color: #FFF;
 	text-shadow: 1px 1px 1px rgba(0,0,0,0.2);
 }
@@ -7583,7 +7583,7 @@ body:not(.device-touch) .portfolio {
 
 #portfolio-navigation a:first-child { margin-left: 0; }
 
-#portfolio-navigation a:hover { color: #1ABC9C; }
+#portfolio-navigation a:hover { color: #57A391; }
 
 #portfolio-ajax-show #portfolio-navigation {
 	top: 0;
@@ -7805,7 +7805,7 @@ body:not(.device-touch) .entry-link {
 
 .entry-link:hover {
 	color: #FFF;
-	background-color: #1ABC9C;
+	background-color: #57A391;
 	text-shadow: 1px 1px 1px rgba(0,0,0,0.2);
 }
 
@@ -7941,8 +7941,8 @@ body:not(.device-touch) .entry-link {
 
 	.post-timeline .entry:hover .entry-timeline,
 	.post-timeline .entry:hover .timeline-divider {
-		border-color: #1ABC9C;
-		color: #1ABC9C;
+		border-color: #57A391;
+		color: #57A391;
 	}
 
 }
@@ -8160,7 +8160,7 @@ body:not(.device-touch) .entry-link {
 	color: #333;
 }
 
-.comment-content .comment-author a:hover { color: #1ABC9C; }
+.comment-content .comment-author a:hover { color: #57A391; }
 
 .comment-content .comment-author span { display: block; }
 
@@ -13332,7 +13332,7 @@ blockquote.float-end {
 
 .dark .bg-overlay-bg,
 .bg-overlay-bg.dark {
-	background-color: rgba(0,0,0,0.5);
+	background-color: rgba(87,163,145,1);
 }
 
 
