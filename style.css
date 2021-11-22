@@ -175,7 +175,7 @@ dl, dt, dd, ol, ul, li {
 body {
 	line-height: 1.5;
 	color: #06161E;
-    font-family: 'Brown-font' ; src: url("fonts/TTF/Brown-Regular.ttf"); 
+    font-family: Brown-font, sans-serif;
 }
 
 a {
